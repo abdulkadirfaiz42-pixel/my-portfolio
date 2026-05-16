@@ -25,6 +25,8 @@ To view this project locally:
 
 ## 📫 Contact
 
-- **Email**: abdulkadirfaiz42@gmail.com
+- **Email**: [abdulkadirfaiz42@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=abdulkadirfaiz42@gmail.com)
 - **GitHub**: [@abdulkadirfaiz42-pixel](https://github.com/abdulkadirfaiz42-pixel)
 - **LinkedIn**: [Faiz Abdulkadir](https://www.linkedin.com/in/Faiz-Abdulkadir-2507a6403)
+- **Twitter**: [@FaizAbdulk79000](https://twitter.com/FaizAbdulk79000)
+
